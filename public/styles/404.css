@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(25, 38, 75);
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face {
+    font-family: "jacquarda";
+    src: url("/fonts/JacquardaBastarda9-Regular.ttf") format("TrueType");
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: "jacquarda";
+    color: rgb(225, 197, 161);
+    text-align: center;
+    margin-top: 250px;
+    font-size: 160px;
+}
+
+p {
+    font-family: "jacquarda";
+    color: rgb(225, 197, 161);
+    text-align: center;
+    margin-top: 25px;
+    font-size: 60px;
+}

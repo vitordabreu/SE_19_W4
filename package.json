@@ -1,0 +1,14 @@
+{
+  "name": "week_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitor Abreu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
